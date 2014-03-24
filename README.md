@@ -6,7 +6,7 @@ an archive) and symlinks them into your home directory using
 
 # Requirements
 
-None.
+Chef.
 
 # Usage
 
