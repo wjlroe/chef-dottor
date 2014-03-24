@@ -1,5 +1,7 @@
 # chef-dottor cookbook
 
+[![Build Status](https://travis-ci.org/wjlroe/chef-dottor.svg?branch=master)](https://travis-ci.org/wjlroe/chef-dottor)
+
 chef-dottor is a cookbook for installing your dotfiles (from a git repository or
 an archive) and symlinks them into your home directory using
 [dottor](https://github.com/marcocampana/dottor).
